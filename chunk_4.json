@@ -1,0 +1,3106 @@
+[
+  {
+    "index": 3104,
+    "output": "0"
+  },
+  {
+    "index": 3105,
+    "output": "7"
+  },
+  {
+    "index": 3106,
+    "output": "0"
+  },
+  {
+    "index": 3107,
+    "output": "4"
+  },
+  {
+    "index": 3108,
+    "output": "0"
+  },
+  {
+    "index": 3109,
+    "output": "1"
+  },
+  {
+    "index": 3110,
+    "output": "0"
+  },
+  {
+    "index": 3111,
+    "output": "###"
+  },
+  {
+    "index": 3112,
+    "output": "1"
+  },
+  {
+    "index": 3113,
+    "output": "1"
+  },
+  {
+    "index": 3114,
+    "output": "1"
+  },
+  {
+    "index": 3115,
+    "output": "1"
+  },
+  {
+    "index": 3116,
+    "output": "- Orange block is"
+  },
+  {
+    "index": 3117,
+    "output": "2"
+  },
+  {
+    "index": 3118,
+    "output": "16"
+  },
+  {
+    "index": 3119,
+    "output": "- Object"
+  },
+  {
+    "index": 3120,
+    "output": "5"
+  },
+  {
+    "index": 3121,
+    "output": "2"
+  },
+  {
+    "index": 3122,
+    "output": "1"
+  },
+  {
+    "index": 3123,
+    "output": "0"
+  },
+  {
+    "index": 3124,
+    "output": "0"
+  },
+  {
+    "index": 3125,
+    "output": "15"
+  },
+  {
+    "index": 3126,
+    "output": "1"
+  },
+  {
+    "index": 3127,
+    "output": "1"
+  },
+  {
+    "index": 3128,
+    "output": "1"
+  },
+  {
+    "index": 3129,
+    "output": "3"
+  },
+  {
+    "index": 3130,
+    "output": "This goal"
+  },
+  {
+    "index": 3131,
+    "output": "8"
+  },
+  {
+    "index": 3132,
+    "output": "3"
+  },
+  {
+    "index": 3133,
+    "output": "1"
+  },
+  {
+    "index": 3134,
+    "output": "0"
+  },
+  {
+    "index": 3135,
+    "output": "2"
+  },
+  {
+    "index": 3136,
+    "output": "3"
+  },
+  {
+    "index": 3137,
+    "output": "- Yellow block is"
+  },
+  {
+    "index": 3138,
+    "output": "- **Yellow block is on top of the"
+  },
+  {
+    "index": 3139,
+    "output": "1"
+  },
+  {
+    "index": 3140,
+    "output": "- Yellow block"
+  },
+  {
+    "index": 3141,
+    "output": "- Blue block is on top of the"
+  },
+  {
+    "index": 3142,
+    "output": "But the"
+  },
+  {
+    "index": 3143,
+    "output": "0"
+  },
+  {
+    "index": 3144,
+    "output": "2"
+  },
+  {
+    "index": 3145,
+    "output": "0"
+  },
+  {
+    "index": 3146,
+    "output": "0"
+  },
+  {
+    "index": 3147,
+    "output": "3"
+  },
+  {
+    "index": 3148,
+    "output": "0"
+  },
+  {
+    "index": 3149,
+    "output": "3"
+  },
+  {
+    "index": 3150,
+    "output": "2"
+  },
+  {
+    "index": 3151,
+    "output": "0"
+  },
+  {
+    "index": 3152,
+    "output": "11"
+  },
+  {
+    "index": 3153,
+    "output": "- Yellow block is on top of blue"
+  },
+  {
+    "index": 3154,
+    "output": "1"
+  },
+  {
+    "index": 3155,
+    "output": "3"
+  },
+  {
+    "index": 3156,
+    "output": "1"
+  },
+  {
+    "index": 3157,
+    "output": "- From"
+  },
+  {
+    "index": 3158,
+    "output": "1"
+  },
+  {
+    "index": 3159,
+    "output": "2"
+  },
+  {
+    "index": 3160,
+    "output": "### **Plan Step-by-Step Evaluation:"
+  },
+  {
+    "index": 3161,
+    "output": "This"
+  },
+  {
+    "index": 3162,
+    "output": "14"
+  },
+  {
+    "index": 3163,
+    "output": "1"
+  },
+  {
+    "index": 3164,
+    "output": "2"
+  },
+  {
+    "index": 3165,
+    "output": "9"
+  },
+  {
+    "index": 3166,
+    "output": "1"
+  },
+  {
+    "index": 3167,
+    "output": "1"
+  },
+  {
+    "index": 3168,
+    "output": "23"
+  },
+  {
+    "index": 3169,
+    "output": "1"
+  },
+  {
+    "index": 3170,
+    "output": "1"
+  },
+  {
+    "index": 3171,
+    "output": "1"
+  },
+  {
+    "index": 3172,
+    "output": "12"
+  },
+  {
+    "index": 3173,
+    "output": "2"
+  },
+  {
+    "index": 3174,
+    "output": "1"
+  },
+  {
+    "index": 3175,
+    "output": "2"
+  },
+  {
+    "index": 3176,
+    "output": "1"
+  },
+  {
+    "index": 3177,
+    "output": "- **Goal**: Have **blue block on top of orange block** and **"
+  },
+  {
+    "index": 3178,
+    "output": "1"
+  },
+  {
+    "index": 3179,
+    "output": "0"
+  },
+  {
+    "index": 3180,
+    "output": "1"
+  },
+  {
+    "index": 3181,
+    "output": "- **Blue block** is on top of **red"
+  },
+  {
+    "index": 3182,
+    "output": "1"
+  },
+  {
+    "index": 3183,
+    "output": "2"
+  },
+  {
+    "index": 3184,
+    "output": "1"
+  },
+  {
+    "index": 3185,
+    "output": "2"
+  },
+  {
+    "index": 3186,
+    "output": "2"
+  },
+  {
+    "index": 3187,
+    "output": "- **"
+  },
+  {
+    "index": 3188,
+    "output": "- Blue block is on top"
+  },
+  {
+    "index": 3189,
+    "output": "1"
+  },
+  {
+    "index": 3190,
+    "output": "- **Orange block is on top of the blue"
+  },
+  {
+    "index": 3191,
+    "output": "2"
+  },
+  {
+    "index": 3192,
+    "output": "1"
+  },
+  {
+    "index": 3193,
+    "output": "1"
+  },
+  {
+    "index": 3194,
+    "output": "2"
+  },
+  {
+    "index": 3195,
+    "output": "1"
+  },
+  {
+    "index": 3196,
+    "output": "2"
+  },
+  {
+    "index": 3197,
+    "output": "0"
+  },
+  {
+    "index": 3198,
+    "output": "0"
+  },
+  {
+    "index": 3199,
+    "output": "1"
+  },
+  {
+    "index": 3200,
+    "output": "1"
+  },
+  {
+    "index": 3201,
+    "output": "1"
+  },
+  {
+    "index": 3202,
+    "output": "- **Blue block**"
+  },
+  {
+    "index": 3203,
+    "output": "6"
+  },
+  {
+    "index": 3204,
+    "output": "0"
+  },
+  {
+    "index": 3205,
+    "output": "4"
+  },
+  {
+    "index": 3206,
+    "output": "### **Plan"
+  },
+  {
+    "index": 3207,
+    "output": "1"
+  },
+  {
+    "index": 3208,
+    "output": "2"
+  },
+  {
+    "index": 3209,
+    "output": "2"
+  },
+  {
+    "index": 3210,
+    "output": "0"
+  },
+  {
+    "index": 3211,
+    "output": "0"
+  },
+  {
+    "index": 3212,
+    "output": "2"
+  },
+  {
+    "index": 3213,
+    "output": "So the goal is to **stack the yellow block on top of the blue block**, which is"
+  },
+  {
+    "index": 3214,
+    "output": "2"
+  },
+  {
+    "index": 3215,
+    "output": "1"
+  },
+  {
+    "index": 3216,
+    "output": "16"
+  },
+  {
+    "index": 3217,
+    "output": "- **Blue block**"
+  },
+  {
+    "index": 3218,
+    "output": "### **Plan"
+  },
+  {
+    "index": 3219,
+    "output": "13"
+  },
+  {
+    "index": 3220,
+    "output": "1"
+  },
+  {
+    "index": 3221,
+    "output": "16"
+  },
+  {
+    "index": 3222,
+    "output": "1"
+  },
+  {
+    "index": 3223,
+    "output": "1"
+  },
+  {
+    "index": 3224,
+    "output": "2"
+  },
+  {
+    "index": 3225,
+    "output": "2"
+  },
+  {
+    "index": 3226,
+    "output": "**"
+  },
+  {
+    "index": 3227,
+    "output": "1"
+  },
+  {
+    "index": 3228,
+    "output": "0"
+  },
+  {
+    "index": 3229,
+    "output": "- Orange block"
+  },
+  {
+    "index": 3230,
+    "output": "1"
+  },
+  {
+    "index": 3231,
+    "output": "1"
+  },
+  {
+    "index": 3232,
+    "output": "3"
+  },
+  {
+    "index": 3233,
+    "output": "2"
+  },
+  {
+    "index": 3234,
+    "output": "1"
+  },
+  {
+    "index": 3235,
+    "output": "11"
+  },
+  {
+    "index": 3236,
+    "output": "- **On"
+  },
+  {
+    "index": 3237,
+    "output": "1"
+  },
+  {
+    "index": 3238,
+    "output": "3"
+  },
+  {
+    "index": 3239,
+    "output": "2"
+  },
+  {
+    "index": 3240,
+    "output": "1"
+  },
+  {
+    "index": 3241,
+    "output": "2"
+  },
+  {
+    "index": 3242,
+    "output": "0"
+  },
+  {
+    "index": 3243,
+    "output": "2"
+  },
+  {
+    "index": 3244,
+    "output": "4"
+  },
+  {
+    "index": 3245,
+    "output": "2"
+  },
+  {
+    "index": 3246,
+    "output": "- Have the stack: **Blue block \u2192"
+  },
+  {
+    "index": 3247,
+    "output": "1"
+  },
+  {
+    "index": 3248,
+    "output": "1"
+  },
+  {
+    "index": 3249,
+    "output": "- The **orange block** is **clear** (same reasoning"
+  },
+  {
+    "index": 3250,
+    "output": "2"
+  },
+  {
+    "index": 3251,
+    "output": "9"
+  },
+  {
+    "index": 3252,
+    "output": "1"
+  },
+  {
+    "index": 3253,
+    "output": "1"
+  },
+  {
+    "index": 3254,
+    "output": "1"
+  },
+  {
+    "index": 3255,
+    "output": "2"
+  },
+  {
+    "index": 3256,
+    "output": "2"
+  },
+  {
+    "index": 3257,
+    "output": "1"
+  },
+  {
+    "index": 3258,
+    "output": "So the initial"
+  },
+  {
+    "index": 3259,
+    "output": "2"
+  },
+  {
+    "index": 3260,
+    "output": "1"
+  },
+  {
+    "index": 3261,
+    "output": "1"
+  },
+  {
+    "index": 3262,
+    "output": "2"
+  },
+  {
+    "index": 3263,
+    "output": "2"
+  },
+  {
+    "index": 3264,
+    "output": "1"
+  },
+  {
+    "index": 3265,
+    "output": "1"
+  },
+  {
+    "index": 3266,
+    "output": "- The orange block is on"
+  },
+  {
+    "index": 3267,
+    "output": "2"
+  },
+  {
+    "index": 3268,
+    "output": "1"
+  },
+  {
+    "index": 3269,
+    "output": "1"
+  },
+  {
+    "index": 3270,
+    "output": "Blue is on the table."
+  },
+  {
+    "index": 3271,
+    "output": "1"
+  },
+  {
+    "index": 3272,
+    "output": "- Yellow block (on Blue"
+  },
+  {
+    "index": 3273,
+    "output": "2"
+  },
+  {
+    "index": 3274,
+    "output": "2"
+  },
+  {
+    "index": 3275,
+    "output": "3"
+  },
+  {
+    "index": 3276,
+    "output": "- The red"
+  },
+  {
+    "index": 3277,
+    "output": "1"
+  },
+  {
+    "index": 3278,
+    "output": "2"
+  },
+  {
+    "index": 3279,
+    "output": "4"
+  },
+  {
+    "index": 3280,
+    "output": "**orange block is on"
+  },
+  {
+    "index": 3281,
+    "output": "### **Goal:**"
+  },
+  {
+    "index": 3282,
+    "output": "15"
+  },
+  {
+    "index": 3283,
+    "output": "- Yellow block is on top of the orange block"
+  },
+  {
+    "index": 3284,
+    "output": "1"
+  },
+  {
+    "index": 3285,
+    "output": "1"
+  },
+  {
+    "index": 3286,
+    "output": "- **Blue block is on top"
+  },
+  {
+    "index": 3287,
+    "output": "5"
+  },
+  {
+    "index": 3288,
+    "output": "2"
+  },
+  {
+    "index": 3289,
+    "output": "2"
+  },
+  {
+    "index": 3290,
+    "output": "0"
+  },
+  {
+    "index": 3291,
+    "output": "2"
+  },
+  {
+    "index": 3292,
+    "output": "1"
+  },
+  {
+    "index": 3293,
+    "output": "- Object c craves object a ("
+  },
+  {
+    "index": 3294,
+    "output": "###"
+  },
+  {
+    "index": 3295,
+    "output": "- **Overcome object a from object d"
+  },
+  {
+    "index": 3296,
+    "output": "1"
+  },
+  {
+    "index": 3297,
+    "output": "0"
+  },
+  {
+    "index": 3298,
+    "output": "1"
+  },
+  {
+    "index": 3299,
+    "output": "- The **red block is on top of the blue block**"
+  },
+  {
+    "index": 3300,
+    "output": "16"
+  },
+  {
+    "index": 3301,
+    "output": "1"
+  },
+  {
+    "index": 3302,
+    "output": "4"
+  },
+  {
+    "index": 3303,
+    "output": "1"
+  },
+  {
+    "index": 3304,
+    "output": "1"
+  },
+  {
+    "index": 3305,
+    "output": "1"
+  },
+  {
+    "index": 3306,
+    "output": "3"
+  },
+  {
+    "index": 3307,
+    "output": "1"
+  },
+  {
+    "index": 3308,
+    "output": "**Orange"
+  },
+  {
+    "index": 3309,
+    "output": "3"
+  },
+  {
+    "index": 3310,
+    "output": "- **Blue block** is on top of the **orange"
+  },
+  {
+    "index": 3311,
+    "output": "-"
+  },
+  {
+    "index": 3312,
+    "output": "10"
+  },
+  {
+    "index": 3313,
+    "output": "- The **red block is on top of the blue block"
+  },
+  {
+    "index": 3314,
+    "output": "3"
+  },
+  {
+    "index": 3315,
+    "output": "This means we need to re"
+  },
+  {
+    "index": 3316,
+    "output": "1"
+  },
+  {
+    "index": 3317,
+    "output": "0"
+  },
+  {
+    "index": 3318,
+    "output": "3"
+  },
+  {
+    "index": 3319,
+    "output": "1"
+  },
+  {
+    "index": 3320,
+    "output": "2"
+  },
+  {
+    "index": 3321,
+    "output": "- Red block is"
+  },
+  {
+    "index": 3322,
+    "output": "1"
+  },
+  {
+    "index": 3323,
+    "output": "1"
+  },
+  {
+    "index": 3324,
+    "output": "1"
+  },
+  {
+    "index": 3325,
+    "output": "3"
+  },
+  {
+    "index": 3326,
+    "output": "- Orange block is on top of the red block."
+  },
+  {
+    "index": 3327,
+    "output": "- **Orange"
+  },
+  {
+    "index": 3328,
+    "output": "1"
+  },
+  {
+    "index": 3329,
+    "output": "2"
+  },
+  {
+    "index": 3330,
+    "output": "0"
+  },
+  {
+    "index": 3331,
+    "output": "2"
+  },
+  {
+    "index": 3332,
+    "output": "1"
+  },
+  {
+    "index": 3333,
+    "output": "Let\u2019s evaluate"
+  },
+  {
+    "index": 3334,
+    "output": "1"
+  },
+  {
+    "index": 3335,
+    "output": "1"
+  },
+  {
+    "index": 3336,
+    "output": "1"
+  },
+  {
+    "index": 3337,
+    "output": "Blue (on table)"
+  },
+  {
+    "index": 3338,
+    "output": "---"
+  },
+  {
+    "index": 3339,
+    "output": "- **Orange block"
+  },
+  {
+    "index": 3340,
+    "output": "4"
+  },
+  {
+    "index": 3341,
+    "output": "1"
+  },
+  {
+    "index": 3342,
+    "output": "13"
+  },
+  {
+    "index": 3343,
+    "output": "2"
+  },
+  {
+    "index": 3344,
+    "output": "0"
+  },
+  {
+    "index": 3345,
+    "output": "1"
+  },
+  {
+    "index": 3346,
+    "output": "10"
+  },
+  {
+    "index": 3347,
+    "output": "2"
+  },
+  {
+    "index": 3348,
+    "output": "-"
+  },
+  {
+    "index": 3349,
+    "output": "1"
+  },
+  {
+    "index": 3350,
+    "output": "1"
+  },
+  {
+    "index": 3351,
+    "output": "1"
+  },
+  {
+    "index": 3352,
+    "output": "1"
+  },
+  {
+    "index": 3353,
+    "output": "1"
+  },
+  {
+    "index": 3354,
+    "output": "0"
+  },
+  {
+    "index": 3355,
+    "output": "4"
+  },
+  {
+    "index": 3356,
+    "output": "1"
+  },
+  {
+    "index": 3357,
+    "output": "3"
+  },
+  {
+    "index": 3358,
+    "output": "1"
+  },
+  {
+    "index": 3359,
+    "output": "2"
+  },
+  {
+    "index": 3360,
+    "output": "1"
+  },
+  {
+    "index": 3361,
+    "output": "So the only missing goal condition is: **Object c craves object d** and **Object d cr"
+  },
+  {
+    "index": 3362,
+    "output": "1"
+  },
+  {
+    "index": 3363,
+    "output": "1"
+  },
+  {
+    "index": 3364,
+    "output": "1"
+  },
+  {
+    "index": 3365,
+    "output": "6"
+  },
+  {
+    "index": 3366,
+    "output": "2"
+  },
+  {
+    "index": 3367,
+    "output": "2"
+  },
+  {
+    "index": 3368,
+    "output": "2"
+  },
+  {
+    "index": 3369,
+    "output": "1"
+  },
+  {
+    "index": 3370,
+    "output": "1"
+  },
+  {
+    "index": 3371,
+    "output": "1"
+  },
+  {
+    "index": 3372,
+    "output": "14"
+  },
+  {
+    "index": 3373,
+    "output": "1"
+  },
+  {
+    "index": 3374,
+    "output": "2"
+  },
+  {
+    "index": 3375,
+    "output": "14"
+  },
+  {
+    "index": 3376,
+    "output": "(Note: The second \"object c"
+  },
+  {
+    "index": 3377,
+    "output": "1"
+  },
+  {
+    "index": 3378,
+    "output": "- Yellow block is on top of the red block"
+  },
+  {
+    "index": 3379,
+    "output": "3"
+  },
+  {
+    "index": 3380,
+    "output": "### **Goal**:"
+  },
+  {
+    "index": 3381,
+    "output": "4"
+  },
+  {
+    "index": 3382,
+    "output": "1"
+  },
+  {
+    "index": 3383,
+    "output": "3"
+  },
+  {
+    "index": 3384,
+    "output": "5"
+  },
+  {
+    "index": 3385,
+    "output": "1"
+  },
+  {
+    "index": 3386,
+    "output": "0"
+  },
+  {
+    "index": 3387,
+    "output": "5"
+  },
+  {
+    "index": 3388,
+    "output": "1"
+  },
+  {
+    "index": 3389,
+    "output": "- The **red block is on top of the yellow block"
+  },
+  {
+    "index": 3390,
+    "output": "1"
+  },
+  {
+    "index": 3391,
+    "output": "0"
+  },
+  {
+    "index": 3392,
+    "output": "2"
+  },
+  {
+    "index": 3393,
+    "output": "1"
+  },
+  {
+    "index": 3394,
+    "output": "1"
+  },
+  {
+    "index": 3395,
+    "output": "1"
+  },
+  {
+    "index": 3396,
+    "output": "1"
+  },
+  {
+    "index": 3397,
+    "output": "- The yellow"
+  },
+  {
+    "index": 3398,
+    "output": "But the blue block is on top of the yellow block, so"
+  },
+  {
+    "index": 3399,
+    "output": "\u2192 **Blue block"
+  },
+  {
+    "index": 3400,
+    "output": "1"
+  },
+  {
+    "index": 3401,
+    "output": "1"
+  },
+  {
+    "index": 3402,
+    "output": "- **Blue block** is on the table"
+  },
+  {
+    "index": 3403,
+    "output": "So the goal is to have **object c craves object a**, while"
+  },
+  {
+    "index": 3404,
+    "output": "1"
+  },
+  {
+    "index": 3405,
+    "output": "- Red block is on top of the"
+  },
+  {
+    "index": 3406,
+    "output": "2"
+  },
+  {
+    "index": 3407,
+    "output": "1"
+  },
+  {
+    "index": 3408,
+    "output": "- **Red block**"
+  },
+  {
+    "index": 3409,
+    "output": "1"
+  },
+  {
+    "index": 3410,
+    "output": "0"
+  },
+  {
+    "index": 3411,
+    "output": "Let\u2019s evaluate the plan step by step to see whether it can lead to the desired outcome"
+  },
+  {
+    "index": 3412,
+    "output": "- **Blue block is on top of the yellow block**"
+  },
+  {
+    "index": 3413,
+    "output": "1"
+  },
+  {
+    "index": 3414,
+    "output": "2"
+  },
+  {
+    "index": 3415,
+    "output": "0"
+  },
+  {
+    "index": 3416,
+    "output": "1"
+  },
+  {
+    "index": 3417,
+    "output": "3"
+  },
+  {
+    "index": 3418,
+    "output": "4"
+  },
+  {
+    "index": 3419,
+    "output": "9"
+  },
+  {
+    "index": 3420,
+    "output": "1"
+  },
+  {
+    "index": 3421,
+    "output": "- The orange block is on"
+  },
+  {
+    "index": 3422,
+    "output": "1"
+  },
+  {
+    "index": 3423,
+    "output": "9"
+  },
+  {
+    "index": 3424,
+    "output": "2"
+  },
+  {
+    "index": 3425,
+    "output": "0"
+  },
+  {
+    "index": 3426,
+    "output": "3"
+  },
+  {
+    "index": 3427,
+    "output": "5"
+  },
+  {
+    "index": 3428,
+    "output": "1"
+  },
+  {
+    "index": 3429,
+    "output": "- **Object D** craves **Object B**"
+  },
+  {
+    "index": 3430,
+    "output": "2"
+  },
+  {
+    "index": 3431,
+    "output": "- Yellow block is on top of"
+  },
+  {
+    "index": 3432,
+    "output": "1"
+  },
+  {
+    "index": 3433,
+    "output": "- **Red block is on top of"
+  },
+  {
+    "index": 3434,
+    "output": "8"
+  },
+  {
+    "index": 3435,
+    "output": "0"
+  },
+  {
+    "index": 3436,
+    "output": "1"
+  },
+  {
+    "index": 3437,
+    "output": "####"
+  },
+  {
+    "index": 3438,
+    "output": "15"
+  },
+  {
+    "index": 3439,
+    "output": "- **Removes"
+  },
+  {
+    "index": 3440,
+    "output": "**Orange"
+  },
+  {
+    "index": 3441,
+    "output": "That is, the **blue"
+  },
+  {
+    "index": 3442,
+    "output": "2"
+  },
+  {
+    "index": 3443,
+    "output": "- Object e"
+  },
+  {
+    "index": 3444,
+    "output": "2"
+  },
+  {
+    "index": 3445,
+    "output": "0"
+  },
+  {
+    "index": 3446,
+    "output": "0"
+  },
+  {
+    "index": 3447,
+    "output": "1"
+  },
+  {
+    "index": 3448,
+    "output": "1"
+  },
+  {
+    "index": 3449,
+    "output": "1"
+  },
+  {
+    "index": 3450,
+    "output": "1"
+  },
+  {
+    "index": 3451,
+    "output": "2"
+  },
+  {
+    "index": 3452,
+    "output": "5"
+  },
+  {
+    "index": 3453,
+    "output": "3"
+  },
+  {
+    "index": 3454,
+    "output": "0"
+  },
+  {
+    "index": 3455,
+    "output": "1"
+  },
+  {
+    "index": 3456,
+    "output": "3"
+  },
+  {
+    "index": 3457,
+    "output": "- **Red block** on top of **blue block**"
+  },
+  {
+    "index": 3458,
+    "output": "1"
+  },
+  {
+    "index": 3459,
+    "output": "0"
+  },
+  {
+    "index": 3460,
+    "output": "1"
+  },
+  {
+    "index": 3461,
+    "output": "5"
+  },
+  {
+    "index": 3462,
+    "output": "2"
+  },
+  {
+    "index": 3463,
+    "output": "- **Orange block** on top of the **blue block**."
+  },
+  {
+    "index": 3464,
+    "output": "2"
+  },
+  {
+    "index": 3465,
+    "output": "1"
+  },
+  {
+    "index": 3466,
+    "output": "2"
+  },
+  {
+    "index": 3467,
+    "output": "- Orange block"
+  },
+  {
+    "index": 3468,
+    "output": "- Red block is on the table (i.e., not"
+  },
+  {
+    "index": 3469,
+    "output": "- **Goal:** Have the **red block** on top of the **blue block** and the **orange block** on top of the **red block**."
+  },
+  {
+    "index": 3470,
+    "output": "0"
+  },
+  {
+    "index": 3471,
+    "output": "3"
+  },
+  {
+    "index": 3472,
+    "output": "0"
+  },
+  {
+    "index": 3473,
+    "output": "1"
+  },
+  {
+    "index": 3474,
+    "output": "1"
+  },
+  {
+    "index": 3475,
+    "output": "2"
+  },
+  {
+    "index": 3476,
+    "output": "3"
+  },
+  {
+    "index": 3477,
+    "output": "2"
+  },
+  {
+    "index": 3478,
+    "output": "0"
+  },
+  {
+    "index": 3479,
+    "output": "- The **orange block is on top of the"
+  },
+  {
+    "index": 3480,
+    "output": "2"
+  },
+  {
+    "index": 3481,
+    "output": "2"
+  },
+  {
+    "index": 3482,
+    "output": "5"
+  },
+  {
+    "index": 3483,
+    "output": "2"
+  },
+  {
+    "index": 3484,
+    "output": "2"
+  },
+  {
+    "index": 3485,
+    "output": "0"
+  },
+  {
+    "index": 3486,
+    "output": "4"
+  },
+  {
+    "index": 3487,
+    "output": "1"
+  },
+  {
+    "index": 3488,
+    "output": "- **Yellow block"
+  },
+  {
+    "index": 3489,
+    "output": "2"
+  },
+  {
+    "index": 3490,
+    "output": "10"
+  },
+  {
+    "index": 3491,
+    "output": "4"
+  },
+  {
+    "index": 3492,
+    "output": "1"
+  },
+  {
+    "index": 3493,
+    "output": "2"
+  },
+  {
+    "index": 3494,
+    "output": "1"
+  },
+  {
+    "index": 3495,
+    "output": "And the yellow"
+  },
+  {
+    "index": 3496,
+    "output": "4"
+  },
+  {
+    "index": 3497,
+    "output": "3"
+  },
+  {
+    "index": 3498,
+    "output": "4"
+  },
+  {
+    "index": 3499,
+    "output": "1"
+  },
+  {
+    "index": 3500,
+    "output": "1"
+  },
+  {
+    "index": 3501,
+    "output": "11"
+  },
+  {
+    "index": 3502,
+    "output": "24"
+  },
+  {
+    "index": 3503,
+    "output": "1"
+  },
+  {
+    "index": 3504,
+    "output": "4"
+  },
+  {
+    "index": 3505,
+    "output": "24"
+  },
+  {
+    "index": 3506,
+    "output": "0.5"
+  },
+  {
+    "index": 3507,
+    "output": "1"
+  },
+  {
+    "index": 3508,
+    "output": "2"
+  },
+  {
+    "index": 3509,
+    "output": "24"
+  },
+  {
+    "index": 3510,
+    "output": "12"
+  },
+  {
+    "index": 3511,
+    "output": "12"
+  },
+  {
+    "index": 3512,
+    "output": "1"
+  },
+  {
+    "index": 3513,
+    "output": "15"
+  },
+  {
+    "index": 3514,
+    "output": "3"
+  },
+  {
+    "index": 3515,
+    "output": "1"
+  },
+  {
+    "index": 3516,
+    "output": "1"
+  },
+  {
+    "index": 3517,
+    "output": "27"
+  },
+  {
+    "index": 3518,
+    "output": "30"
+  },
+  {
+    "index": 3519,
+    "output": "33"
+  },
+  {
+    "index": 3520,
+    "output": "1"
+  },
+  {
+    "index": 3521,
+    "output": "3"
+  },
+  {
+    "index": 3522,
+    "output": "1"
+  },
+  {
+    "index": 3523,
+    "output": "22"
+  },
+  {
+    "index": 3524,
+    "output": "1"
+  },
+  {
+    "index": 3525,
+    "output": "7"
+  },
+  {
+    "index": 3526,
+    "output": "2"
+  },
+  {
+    "index": 3527,
+    "output": "1"
+  },
+  {
+    "index": 3528,
+    "output": "22"
+  },
+  {
+    "index": 3529,
+    "output": "2"
+  },
+  {
+    "index": 3530,
+    "output": "5"
+  },
+  {
+    "index": 3531,
+    "output": "3"
+  },
+  {
+    "index": 3532,
+    "output": "24"
+  },
+  {
+    "index": 3533,
+    "output": "5"
+  },
+  {
+    "index": 3534,
+    "output": "6"
+  },
+  {
+    "index": 3535,
+    "output": "6"
+  },
+  {
+    "index": 3536,
+    "output": "50"
+  },
+  {
+    "index": 3537,
+    "output": "6"
+  },
+  {
+    "index": 3538,
+    "output": "2"
+  },
+  {
+    "index": 3539,
+    "output": "8"
+  },
+  {
+    "index": 3540,
+    "output": "1"
+  },
+  {
+    "index": 3541,
+    "output": "2"
+  },
+  {
+    "index": 3542,
+    "output": "24"
+  },
+  {
+    "index": 3543,
+    "output": "11"
+  },
+  {
+    "index": 3544,
+    "output": "1"
+  },
+  {
+    "index": 3545,
+    "output": "2"
+  },
+  {
+    "index": 3546,
+    "output": "2"
+  },
+  {
+    "index": 3547,
+    "output": "25"
+  },
+  {
+    "index": 3548,
+    "output": "1"
+  },
+  {
+    "index": 3549,
+    "output": "4"
+  },
+  {
+    "index": 3550,
+    "output": "20"
+  },
+  {
+    "index": 3551,
+    "output": "6"
+  },
+  {
+    "index": 3552,
+    "output": "1"
+  },
+  {
+    "index": 3553,
+    "output": "2"
+  },
+  {
+    "index": 3554,
+    "output": "8"
+  },
+  {
+    "index": 3555,
+    "output": "2"
+  },
+  {
+    "index": 3556,
+    "output": "2"
+  },
+  {
+    "index": 3557,
+    "output": "24"
+  },
+  {
+    "index": 3558,
+    "output": "1"
+  },
+  {
+    "index": 3559,
+    "output": "2"
+  },
+  {
+    "index": 3560,
+    "output": "2"
+  },
+  {
+    "index": 3561,
+    "output": "24"
+  },
+  {
+    "index": 3562,
+    "output": "1"
+  },
+  {
+    "index": 3563,
+    "output": "1"
+  },
+  {
+    "index": 3564,
+    "output": "2"
+  },
+  {
+    "index": 3565,
+    "output": "2"
+  },
+  {
+    "index": 3566,
+    "output": "3"
+  },
+  {
+    "index": 3567,
+    "output": "1"
+  },
+  {
+    "index": 3568,
+    "output": "3"
+  },
+  {
+    "index": 3569,
+    "output": "1"
+  },
+  {
+    "index": 3570,
+    "output": "20"
+  },
+  {
+    "index": 3571,
+    "output": "2"
+  },
+  {
+    "index": 3572,
+    "output": "1"
+  },
+  {
+    "index": 3573,
+    "output": "2"
+  },
+  {
+    "index": 3574,
+    "output": "24"
+  },
+  {
+    "index": 3575,
+    "output": "48"
+  },
+  {
+    "index": 3576,
+    "output": "1"
+  },
+  {
+    "index": 3577,
+    "output": "9"
+  },
+  {
+    "index": 3578,
+    "output": "16"
+  },
+  {
+    "index": 3579,
+    "output": "1"
+  },
+  {
+    "index": 3580,
+    "output": "2"
+  },
+  {
+    "index": 3581,
+    "output": "-4"
+  },
+  {
+    "index": 3582,
+    "output": "16"
+  },
+  {
+    "index": 3583,
+    "output": "1"
+  },
+  {
+    "index": 3584,
+    "output": "3"
+  },
+  {
+    "index": 3585,
+    "output": "2"
+  },
+  {
+    "index": 3586,
+    "output": "1"
+  },
+  {
+    "index": 3587,
+    "output": "8"
+  },
+  {
+    "index": 3588,
+    "output": "2"
+  },
+  {
+    "index": 3589,
+    "output": "2"
+  },
+  {
+    "index": 3590,
+    "output": "6"
+  },
+  {
+    "index": 3591,
+    "output": "24"
+  },
+  {
+    "index": 3592,
+    "output": "3"
+  },
+  {
+    "index": 3593,
+    "output": "1"
+  },
+  {
+    "index": 3594,
+    "output": "3"
+  },
+  {
+    "index": 3595,
+    "output": "1"
+  },
+  {
+    "index": 3596,
+    "output": "10"
+  },
+  {
+    "index": 3597,
+    "output": "7"
+  },
+  {
+    "index": 3598,
+    "output": "2"
+  },
+  {
+    "index": 3599,
+    "output": "3"
+  },
+  {
+    "index": 3600,
+    "output": "1"
+  },
+  {
+    "index": 3601,
+    "output": "7"
+  },
+  {
+    "index": 3602,
+    "output": "25"
+  },
+  {
+    "index": 3603,
+    "output": "80"
+  },
+  {
+    "index": 3604,
+    "output": "3"
+  },
+  {
+    "index": 3605,
+    "output": "15"
+  },
+  {
+    "index": 3606,
+    "output": "1.22"
+  },
+  {
+    "index": 3607,
+    "output": "1"
+  },
+  {
+    "index": 3608,
+    "output": "4"
+  },
+  {
+    "index": 3609,
+    "output": "1"
+  },
+  {
+    "index": 3610,
+    "output": "3"
+  },
+  {
+    "index": 3611,
+    "output": "2"
+  },
+  {
+    "index": 3612,
+    "output": "12"
+  },
+  {
+    "index": 3613,
+    "output": "24"
+  },
+  {
+    "index": 3614,
+    "output": "4"
+  },
+  {
+    "index": 3615,
+    "output": "24"
+  },
+  {
+    "index": 3616,
+    "output": "24"
+  },
+  {
+    "index": 3617,
+    "output": "36"
+  },
+  {
+    "index": 3618,
+    "output": "9"
+  },
+  {
+    "index": 3619,
+    "output": "3"
+  },
+  {
+    "index": 3620,
+    "output": "4"
+  },
+  {
+    "index": 3621,
+    "output": "1"
+  },
+  {
+    "index": 3622,
+    "output": "3"
+  },
+  {
+    "index": 3623,
+    "output": "32"
+  },
+  {
+    "index": 3624,
+    "output": "4"
+  },
+  {
+    "index": 3625,
+    "output": "9"
+  },
+  {
+    "index": 3626,
+    "output": "11"
+  },
+  {
+    "index": 3627,
+    "output": "2"
+  },
+  {
+    "index": 3628,
+    "output": "4"
+  },
+  {
+    "index": 3629,
+    "output": "24"
+  },
+  {
+    "index": 3630,
+    "output": "-0.333"
+  },
+  {
+    "index": 3631,
+    "output": "24"
+  },
+  {
+    "index": 3632,
+    "output": "3"
+  },
+  {
+    "index": 3633,
+    "output": "8"
+  },
+  {
+    "index": 3634,
+    "output": "9"
+  },
+  {
+    "index": 3635,
+    "output": "1"
+  },
+  {
+    "index": 3636,
+    "output": "3"
+  },
+  {
+    "index": 3637,
+    "output": "3"
+  },
+  {
+    "index": 3638,
+    "output": "-0.666"
+  },
+  {
+    "index": 3639,
+    "output": "5"
+  },
+  {
+    "index": 3640,
+    "output": "8"
+  },
+  {
+    "index": 3641,
+    "output": "5"
+  },
+  {
+    "index": 3642,
+    "output": "30"
+  },
+  {
+    "index": 3643,
+    "output": "3"
+  },
+  {
+    "index": 3644,
+    "output": "2"
+  },
+  {
+    "index": 3645,
+    "output": "4"
+  },
+  {
+    "index": 3646,
+    "output": "24"
+  },
+  {
+    "index": 3647,
+    "output": "6"
+  },
+  {
+    "index": 3648,
+    "output": "4"
+  },
+  {
+    "index": 3649,
+    "output": "3"
+  },
+  {
+    "index": 3650,
+    "output": "4"
+  },
+  {
+    "index": 3651,
+    "output": "2"
+  },
+  {
+    "index": 3652,
+    "output": "1"
+  },
+  {
+    "index": 3653,
+    "output": "1"
+  },
+  {
+    "index": 3654,
+    "output": "7"
+  },
+  {
+    "index": 3655,
+    "output": "24"
+  },
+  {
+    "index": 3656,
+    "output": "1"
+  },
+  {
+    "index": 3657,
+    "output": "1"
+  },
+  {
+    "index": 3658,
+    "output": "3"
+  },
+  {
+    "index": 3659,
+    "output": "7"
+  },
+  {
+    "index": 3660,
+    "output": "7"
+  },
+  {
+    "index": 3661,
+    "output": "1"
+  },
+  {
+    "index": 3662,
+    "output": "4"
+  },
+  {
+    "index": 3663,
+    "output": "3"
+  },
+  {
+    "index": 3664,
+    "output": "3"
+  },
+  {
+    "index": 3665,
+    "output": "13"
+  },
+  {
+    "index": 3666,
+    "output": "9"
+  },
+  {
+    "index": 3667,
+    "output": "4"
+  },
+  {
+    "index": 3668,
+    "output": "1"
+  },
+  {
+    "index": 3669,
+    "output": "1"
+  },
+  {
+    "index": 3670,
+    "output": "2"
+  },
+  {
+    "index": 3671,
+    "output": "10"
+  },
+  {
+    "index": 3672,
+    "output": "1"
+  },
+  {
+    "index": 3673,
+    "output": "4"
+  },
+  {
+    "index": 3674,
+    "output": "11"
+  },
+  {
+    "index": 3675,
+    "output": "8"
+  },
+  {
+    "index": 3676,
+    "output": "1"
+  },
+  {
+    "index": 3677,
+    "output": "3"
+  },
+  {
+    "index": 3678,
+    "output": "3"
+  },
+  {
+    "index": 3679,
+    "output": "16"
+  },
+  {
+    "index": 3680,
+    "output": "24"
+  },
+  {
+    "index": 3681,
+    "output": "0"
+  },
+  {
+    "index": 3682,
+    "output": "6"
+  },
+  {
+    "index": 3683,
+    "output": "30"
+  },
+  {
+    "index": 3684,
+    "output": "2"
+  },
+  {
+    "index": 3685,
+    "output": "24"
+  },
+  {
+    "index": 3686,
+    "output": "2.75"
+  },
+  {
+    "index": 3687,
+    "output": "24"
+  },
+  {
+    "index": 3688,
+    "output": "4"
+  },
+  {
+    "index": 3689,
+    "output": "2"
+  },
+  {
+    "index": 3690,
+    "output": "4"
+  },
+  {
+    "index": 3691,
+    "output": "1"
+  },
+  {
+    "index": 3692,
+    "output": "1"
+  },
+  {
+    "index": 3693,
+    "output": "4"
+  },
+  {
+    "index": 3694,
+    "output": "3"
+  },
+  {
+    "index": 3695,
+    "output": "3"
+  },
+  {
+    "index": 3696,
+    "output": "1"
+  },
+  {
+    "index": 3697,
+    "output": "1.5"
+  },
+  {
+    "index": 3698,
+    "output": "6"
+  },
+  {
+    "index": 3699,
+    "output": "3"
+  },
+  {
+    "index": 3700,
+    "output": "20"
+  },
+  {
+    "index": 3701,
+    "output": "5"
+  },
+  {
+    "index": 3702,
+    "output": "9"
+  },
+  {
+    "index": 3703,
+    "output": "4"
+  },
+  {
+    "index": 3704,
+    "output": "24"
+  },
+  {
+    "index": 3705,
+    "output": "1"
+  },
+  {
+    "index": 3706,
+    "output": "3"
+  },
+  {
+    "index": 3707,
+    "output": "4"
+  },
+  {
+    "index": 3708,
+    "output": "4"
+  },
+  {
+    "index": 3709,
+    "output": "1"
+  },
+  {
+    "index": 3710,
+    "output": "1"
+  },
+  {
+    "index": 3711,
+    "output": "5"
+  },
+  {
+    "index": 3712,
+    "output": "20"
+  },
+  {
+    "index": 3713,
+    "output": "3"
+  },
+  {
+    "index": 3714,
+    "output": "4"
+  },
+  {
+    "index": 3715,
+    "output": "5"
+  },
+  {
+    "index": 3716,
+    "output": "5"
+  },
+  {
+    "index": 3717,
+    "output": "4"
+  },
+  {
+    "index": 3718,
+    "output": "24"
+  },
+  {
+    "index": 3719,
+    "output": "24"
+  },
+  {
+    "index": 3720,
+    "output": "10"
+  },
+  {
+    "index": 3721,
+    "output": "14"
+  },
+  {
+    "index": 3722,
+    "output": "5"
+  },
+  {
+    "index": 3723,
+    "output": "1"
+  },
+  {
+    "index": 3724,
+    "output": "5"
+  },
+  {
+    "index": 3725,
+    "output": "24"
+  },
+  {
+    "index": 3726,
+    "output": "1"
+  },
+  {
+    "index": 3727,
+    "output": "1"
+  },
+  {
+    "index": 3728,
+    "output": "11"
+  },
+  {
+    "index": 3729,
+    "output": "12"
+  },
+  {
+    "index": 3730,
+    "output": "13"
+  },
+  {
+    "index": 3731,
+    "output": "6"
+  },
+  {
+    "index": 3732,
+    "output": "5"
+  },
+  {
+    "index": 3733,
+    "output": "6"
+  },
+  {
+    "index": 3734,
+    "output": "6"
+  },
+  {
+    "index": 3735,
+    "output": "6"
+  },
+  {
+    "index": 3736,
+    "output": "1"
+  },
+  {
+    "index": 3737,
+    "output": "5"
+  },
+  {
+    "index": 3738,
+    "output": "48"
+  },
+  {
+    "index": 3739,
+    "output": "25"
+  },
+  {
+    "index": 3740,
+    "output": "5"
+  },
+  {
+    "index": 3741,
+    "output": "6"
+  },
+  {
+    "index": 3742,
+    "output": "4"
+  },
+  {
+    "index": 3743,
+    "output": "7"
+  },
+  {
+    "index": 3744,
+    "output": "1"
+  },
+  {
+    "index": 3745,
+    "output": "5"
+  },
+  {
+    "index": 3746,
+    "output": "8"
+  },
+  {
+    "index": 3747,
+    "output": "72"
+  },
+  {
+    "index": 3748,
+    "output": "6"
+  },
+  {
+    "index": 3749,
+    "output": "24"
+  },
+  {
+    "index": 3750,
+    "output": "4"
+  },
+  {
+    "index": 3751,
+    "output": "5"
+  },
+  {
+    "index": 3752,
+    "output": "40"
+  },
+  {
+    "index": 3753,
+    "output": "48"
+  },
+  {
+    "index": 3754,
+    "output": "1"
+  },
+  {
+    "index": 3755,
+    "output": "8"
+  },
+  {
+    "index": 3756,
+    "output": "1"
+  },
+  {
+    "index": 3757,
+    "output": "1"
+  },
+  {
+    "index": 3758,
+    "output": "12"
+  },
+  {
+    "index": 3759,
+    "output": "2"
+  },
+  {
+    "index": 3760,
+    "output": "6"
+  },
+  {
+    "index": 3761,
+    "output": "5"
+  },
+  {
+    "index": 3762,
+    "output": "1"
+  },
+  {
+    "index": 3763,
+    "output": "6"
+  },
+  {
+    "index": 3764,
+    "output": "3"
+  },
+  {
+    "index": 3765,
+    "output": "3"
+  },
+  {
+    "index": 3766,
+    "output": "6"
+  },
+  {
+    "index": 3767,
+    "output": "1.2"
+  },
+  {
+    "index": 3768,
+    "output": "12"
+  },
+  {
+    "index": 3769,
+    "output": "13"
+  },
+  {
+    "index": 3770,
+    "output": "7"
+  },
+  {
+    "index": 3771,
+    "output": "42"
+  },
+  {
+    "index": 3772,
+    "output": "4"
+  },
+  {
+    "index": 3773,
+    "output": "1"
+  },
+  {
+    "index": 3774,
+    "output": "6"
+  },
+  {
+    "index": 3775,
+    "output": "16"
+  },
+  {
+    "index": 3776,
+    "output": "5"
+  },
+  {
+    "index": 3777,
+    "output": "7"
+  },
+  {
+    "index": 3778,
+    "output": "8"
+  },
+  {
+    "index": 3779,
+    "output": "7"
+  },
+  {
+    "index": 3780,
+    "output": "9"
+  },
+  {
+    "index": 3781,
+    "output": "128"
+  },
+  {
+    "index": 3782,
+    "output": "24"
+  },
+  {
+    "index": 3783,
+    "output": "13"
+  },
+  {
+    "index": 3784,
+    "output": "12"
+  },
+  {
+    "index": 3785,
+    "output": "13"
+  },
+  {
+    "index": 3786,
+    "output": "2"
+  },
+  {
+    "index": 3787,
+    "output": "2"
+  },
+  {
+    "index": 3788,
+    "output": "2"
+  },
+  {
+    "index": 3789,
+    "output": "2"
+  },
+  {
+    "index": 3790,
+    "output": "8"
+  },
+  {
+    "index": 3791,
+    "output": "Solution: (10 - 7) * (7 + 1)"
+  },
+  {
+    "index": 3792,
+    "output": "11"
+  },
+  {
+    "index": 3793,
+    "output": "12"
+  },
+  {
+    "index": 3794,
+    "output": "72"
+  },
+  {
+    "index": 3795,
+    "output": "8"
+  },
+  {
+    "index": 3796,
+    "output": "10"
+  },
+  {
+    "index": 3797,
+    "output": "1"
+  },
+  {
+    "index": 3798,
+    "output": "1"
+  },
+  {
+    "index": 3799,
+    "output": "1"
+  },
+  {
+    "index": 3800,
+    "output": "30"
+  },
+  {
+    "index": 3801,
+    "output": "1"
+  },
+  {
+    "index": 3802,
+    "output": "6"
+  },
+  {
+    "index": 3803,
+    "output": "13"
+  },
+  {
+    "index": 3804,
+    "output": "10"
+  },
+  {
+    "index": 3805,
+    "output": "8"
+  },
+  {
+    "index": 3806,
+    "output": "7"
+  },
+  {
+    "index": 3807,
+    "output": "12"
+  },
+  {
+    "index": 3808,
+    "output": "1"
+  },
+  {
+    "index": 3809,
+    "output": "1"
+  },
+  {
+    "index": 3810,
+    "output": "8"
+  },
+  {
+    "index": 3811,
+    "output": "4"
+  },
+  {
+    "index": 3812,
+    "output": "8"
+  },
+  {
+    "index": 3813,
+    "output": "2"
+  },
+  {
+    "index": 3814,
+    "output": "1"
+  },
+  {
+    "index": 3815,
+    "output": "8"
+  },
+  {
+    "index": 3816,
+    "output": "1"
+  },
+  {
+    "index": 3817,
+    "output": "3"
+  },
+  {
+    "index": 3818,
+    "output": "22"
+  },
+  {
+    "index": 3819,
+    "output": "1"
+  },
+  {
+    "index": 3820,
+    "output": "11"
+  },
+  {
+    "index": 3821,
+    "output": "11"
+  },
+  {
+    "index": 3822,
+    "output": "12"
+  },
+  {
+    "index": 3823,
+    "output": "24"
+  },
+  {
+    "index": 3824,
+    "output": "24"
+  },
+  {
+    "index": 3825,
+    "output": "8"
+  },
+  {
+    "index": 3826,
+    "output": "1"
+  },
+  {
+    "index": 3827,
+    "output": "10"
+  },
+  {
+    "index": 3828,
+    "output": "1"
+  },
+  {
+    "index": 3829,
+    "output": "1"
+  },
+  {
+    "index": 3830,
+    "output": "24"
+  },
+  {
+    "index": 3831,
+    "output": "13"
+  },
+  {
+    "index": 3832,
+    "output": "12"
+  },
+  {
+    "index": 3833,
+    "output": "12"
+  },
+  {
+    "index": 3834,
+    "output": "1"
+  },
+  {
+    "index": 3835,
+    "output": "11"
+  },
+  {
+    "index": 3836,
+    "output": "24"
+  },
+  {
+    "index": 3837,
+    "output": "1"
+  },
+  {
+    "index": 3838,
+    "output": "1"
+  },
+  {
+    "index": 3839,
+    "output": "1"
+  },
+  {
+    "index": 3840,
+    "output": "12"
+  },
+  {
+    "index": 3841,
+    "output": "12"
+  },
+  {
+    "index": 3842,
+    "output": "6"
+  },
+  {
+    "index": 3843,
+    "output": "0"
+  },
+  {
+    "index": 3844,
+    "output": "2"
+  },
+  {
+    "index": 3845,
+    "output": "6"
+  },
+  {
+    "index": 3846,
+    "output": "2"
+  },
+  {
+    "index": 3847,
+    "output": "2"
+  },
+  {
+    "index": 3848,
+    "output": "4"
+  },
+  {
+    "index": 3849,
+    "output": "2.4"
+  },
+  {
+    "index": 3850,
+    "output": "2"
+  },
+  {
+    "index": 3851,
+    "output": "13"
+  },
+  {
+    "index": 3852,
+    "output": "2"
+  },
+  {
+    "index": 3853,
+    "output": "4"
+  },
+  {
+    "index": 3854,
+    "output": "1"
+  },
+  {
+    "index": 3855,
+    "output": "3"
+  },
+  {
+    "index": 3856,
+    "output": "7"
+  },
+  {
+    "index": 3857,
+    "output": "3"
+  },
+  {
+    "index": 3858,
+    "output": "24"
+  },
+  {
+    "index": 3859,
+    "output": "24"
+  },
+  {
+    "index": 3860,
+    "output": "3.67"
+  },
+  {
+    "index": 3861,
+    "output": "4"
+  },
+  {
+    "index": 3862,
+    "output": "16"
+  },
+  {
+    "index": 3863,
+    "output": "1"
+  },
+  {
+    "index": 3864,
+    "output": "2"
+  },
+  {
+    "index": 3865,
+    "output": "2"
+  },
+  {
+    "index": 3866,
+    "output": "2"
+  },
+  {
+    "index": 3867,
+    "output": "2"
+  },
+  {
+    "index": 3868,
+    "output": "4"
+  },
+  {
+    "index": 3869,
+    "output": "2"
+  },
+  {
+    "index": 3870,
+    "output": "11"
+  },
+  {
+    "index": 3871,
+    "output": "12"
+  },
+  {
+    "index": 3872,
+    "output": "2"
+  },
+  {
+    "index": 3873,
+    "output": "24"
+  },
+  {
+    "index": 3874,
+    "output": "2"
+  },
+  {
+    "index": 3875,
+    "output": "1"
+  },
+  {
+    "index": 3876,
+    "output": "3"
+  },
+  {
+    "index": 3877,
+    "output": "16"
+  },
+  {
+    "index": 3878,
+    "output": "2"
+  },
+  {
+    "index": 3879,
+    "output": "14"
+  }
+]
